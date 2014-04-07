@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Photo</key>
+		<string>http://nees.oregonstate.edu/killer_wave/wave.jpg</string>
+		<key>Home Number</key>
+		<string></string>
+		<key>Home Address</key>
+		<string>2825-B Henry St Honolulu</string>
+		<key>Work Address</key>
+		<string></string>
+		<key>Personal Email</key>
+		<string>meaola@gmail.com</string>
+		<key>Work Email</key>
+		<string></string>
+		<key>Work Number</key>
+		<string></string>
+		<key>Cell Number</key>
+		<string>808-398-6520</string>
+		<key>Name</key>
+		<string>Marion Ano</string>
+	</dict>
+	<dict>
+		<key>Photo</key>
+		<string>https://lh5.googleusercontent.com/-OE73C278Q00/AAAAAAAAAAI/AAAAAAAAAEY/Cvo6f_Kysog/photo.jpg</string>
+		<key>Home Number</key>
+		<string></string>
+		<key>Home Address</key>
+		<string>18434 Walter Street Lansing, IL. 60438</string>
+		<key>Work Address</key>
+		<string>223 W. Erie Street Chicago, IL. 60601</string>
+		<key>Personal Email</key>
+		<string>stoosevich@gmail.com</string>
+		<key>Work Email</key>
+		<string>steve@mobilemakers.co</string>
+		<key>Work Number</key>
+		<string>312-123-4567</string>
+		<key>Cell Number</key>
+		<string>708-925-2248</string>
+		<key>Name</key>
+		<string>Steve Toosevich</string>
+	</dict>
+</array>
+</plist>
